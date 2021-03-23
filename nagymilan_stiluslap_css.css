@@ -1,3 +1,4 @@
 body{background-image: url(pict/erdo.jpg); background-repeat: no-repeat; background-attachment: fixed; background-position: center; background-size: cover;}
 header{width: 100%; background-color: lightblue; position: fixed; top: 0px; left: 0px; z-index: 2;}
 #x {text-align: center; color: black;}
+container {color: yellow; width: 33%; padding: 10px;}

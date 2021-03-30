@@ -1,4 +1,7 @@
-body{background-image: url(pict/erdo.jpg); background-repeat: no-repeat; background-attachment: fixed; background-position: center; background-size: cover;}
-header{width: 100%; background-color: lightblue; position: fixed; top: 0px; left: 0px; z-index: 2;}
-#x {text-align: center; color: black;}
-container {color: yellow; width: 33%; padding: 10px;}
+body{background-image:url(pict/techwallpapers.png); background-repeat: no-repeat; background-position: center;background-size: cover;}
+header{width: 100%;color: red;background-color: black;}
+body{color: red;text-align: center;}
+#elso {width: 33%;margin-top: 5%;background-color: lightblue; float: left; }
+#masodik {width: 33%;margin-top: 5%;background-color:lightblue; float: left; }
+#harmadik{width: 33%;margin-top: 5%;background-color: lightblue; float: left; }
+.torol{clear: both;}
